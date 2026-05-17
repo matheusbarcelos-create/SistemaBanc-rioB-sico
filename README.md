@@ -54,7 +54,7 @@ Bank/
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/matheusbarcelos-create/SistemaBanc-rioB-sico
+   git clone https://github.com/matheusbarcelos-create/SistemaBancarioBasico
    ```
 
 2. **Abra o projeto no IntelliJ IDEA:**
